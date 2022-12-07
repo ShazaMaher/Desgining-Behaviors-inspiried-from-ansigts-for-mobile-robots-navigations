@@ -1,7 +1,6 @@
 # Desgining-Behaviors-inspiried-from-ansigts-for-mobile-robots-navigations
 
-Build mobile robot from scratch.
-\\
-The Tools I Used was two Stepper motors, Three Ultrsound sensors, Raspberry pi and RaspberryPi Camera. 
-The neural circuit that is used in this thesis is Input Correlation learner which is an unsupervised, correlation-based
-learning algorithm adapted from differential Hebbian learning
+The neural circuit that is used in this thesis is \b{Input Correlation learner(ICO)} which is an unsupervised, correlation-based
+learning algorithm adapted from differential Hebbian learning. 
+
+Computer Vision, OpenCv(Python), Artificial Intelligince (AI), RaspberyPi, Embedded Systems. 
